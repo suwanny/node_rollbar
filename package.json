@@ -1,6 +1,6 @@
 {
-  "name": "rollbar",
-  "description": "A standalone (Node.js) client for Rollbar",
+  "name": "br-rollbar",
+  "description": "A standalone (Node.js) client for Rollbar (BR specific)",
   "homepage": "http://rollbar.com/docs/items_node/",
   "keywords": [
     "rollbar",
@@ -11,7 +11,7 @@
     "ratchet"
   ],
   "version": "0.2.5",
-  "repository": "git://github.com/rollbar/node_rollbar.git",
+  "repository": "git://github.com/suwanny/node_rollbar.git",
   "author": "Cory Virok <cory@rollbar.com>",
   "license": "MIT",
   "main": "rollbar",
